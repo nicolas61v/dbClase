@@ -24,8 +24,6 @@ El proyecto está dividido en dos archivos principales:
 
 ## Instrucciones de Uso
 
-1. Ejecutar primero `database_creation.sql` para crear la estructura de la base de datos
-2. Posteriormente ejecutar `data_and_functions.sql` para poblar la base de datos y crear los objetos necesarios
+1. Ejecutar primero `creacionDBgasimbas.sql` para crear la estructura de la base de datos
+2. Posteriormente ejecutar `insertsyFuncionesGasimbas.sql` para poblar la base de datos y crear los objetos necesarios
 
-## Importante
-Antes de ejecutar los scripts, asegurarse de tener los permisos necesarios en MySQL/MariaDB para crear bases de datos y objetos.
